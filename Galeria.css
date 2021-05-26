@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: white;
+}
+#Galeria2{
+    background:#F2EBDB;
+    clear: both;
+    top: 10px;
+    width: 90%;
+    max-width: 2000px;
+    width: 90%;
+    margin:30px auto;
+    height: 100%;
+}
+
+nav{
+    width: 90%;
+    max-width: 2000px;
+    margin: 20px auto;
+    background: #ECE8BB;
+    overflow: hidden;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li a{
+    padding: 10px 20px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav ul li a:hover{
+    background:#DEC8A4;
+}
+
+#Titulo2{
+    clear: both;
+    background: #6E1623;
+    color: white;
+    top: 20px;
+    text-align: center;
+    max-width: 2000px;
+    margin:30px auto;
+    overflow: hidden;
+    width: 90%;
+}
+
+footer{
+    clear: both;
+    padding: 10px 0px;
+    text-align: center;
+    background: #ECE8BB;
+     width: 90%;
+     max-width: 2000px;
+     margin:30px auto;
+     
+}
+
+img{
+    padding: 10px;
+    border: 3px solid #6E1623;
+    position: relative;
+    left: 60px;
+}
+
+#Repostero{
+    position: absolute;
+    left: 348px;
+    top: 675px; 
+}
+
+#Souffles{
+    position: absolute;
+    left: 739px;
+    top: 675px;
+}
+
+#Nuevo{
+    position: relative;
+    left: 0px;
+    top: 530px;
+}
+
+#Patel2{
+    position: relative;
+    left: 0px;
+    top: 530px;
+
+}
+#Cheesecake{
+    position: absolute;
+    left: 67px;
+    top: 675px;
+}
+
+#Pastel{
+    position: absolute;
+    left: 498px;
+    bottom: 10px;
+    top: 1205px;
+}
+
+#Mini{
+    position: absolute;
+    top: 1635px;
+    left: 429px;
+}
+
+#Mousses{
+    position: relative;
+    left: 0px;
+    top: 530px;
+}
+
+#Donas{
+    position: relative;
+    top: 0px;
+    left: 682px;
+}
+
+#Brownie{
+    position: absolute;
+    top:145px;
+    left: 596px;
+}
+
+
+
